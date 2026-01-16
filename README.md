@@ -1,5 +1,4 @@
-# OctopusGuard: K-Line Enhanced Token Scam Detector Powered by Multimodal LLM
-
+# <img src="./OctopusGuard.png" height="50" style="vertical-align: middle;"/> OctopusGuard: K-Line Enhanced Token Scam Detector Powered by Multimodal LLMs
 ## Overview
 
 **OctopusGuard** is a unified multimodal token scam detector, integrating K-line (candlestick) chart visual patterns, on-chain transaction behavior, and smart contract code semantics. By leveraging large multimodal language models (LLMs) and retrieval-augmented generation (RAG) over a K-line vector database, OctopusGuard achieves state-of-the-art performance in detecting token scams, demonstrating superior accuracy and reasoning capabilities on our comprehensive benchmark dataset.
