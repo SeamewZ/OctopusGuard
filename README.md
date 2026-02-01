@@ -5,6 +5,22 @@
 
 ---
 
+## Citation
+
+If you use **OctopusGuard** in your research, please cite our ICSE 2026 paper:
+
+```bibtex
+@inproceedings{sun2026octopusguard,
+  title     = {OctopusGuard: K-Line Enhanced Token Scam Detector Powered by Multimodal LLMs},
+  author    = {Litong Sun and Yangtian Mi and Xiapu Luo and Weigang Wu},
+  booktitle = {Proceedings of the IEEE/ACM International Conference on Software Engineering (ICSE)},
+  year      = {2026},
+  doi       = {10.1145/3744916.3787845}
+}
+```
+
+---
+
 ## 🔧 Dependency & Environment Setup
 
 First, clone the repository and install all required dependencies.
